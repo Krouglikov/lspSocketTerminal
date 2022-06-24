@@ -513,7 +513,7 @@ Script: initialize
     Command: initialized
     Parameter: {}
 
-    Command: azaza
+    Command: azaza2
     Parameter: { ololo,
             ololo,
             ololo
