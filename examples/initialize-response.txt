@@ -1,0 +1,33 @@
+
+
+[Trace - 16:52:47] Received notification 'window/logMessage'.
+Params: {
+    "type": 3,
+    "message": "июн. 20, 2022 04:52:47 org.eclipse.lemminx.XMLLanguageServer initialize()\r\nMessage: Initializing XML Language server\r\nLemMinX Server info:\r\n - Version : 0.20.0-SNAPSHOT\r\n - Native Image\r\n - VM Version : 17.0.3\r\n - Git [Branch release_0.20.0] 5389612 - CHANGELOG for 0.20.0"
+}
+
+
+[Trace - 16:52:47] Received response 'initialize - (0)' in 750ms.
+Result: {
+    "capabilities": {
+        "textDocumentSync": 2,
+        "hoverProvider": false,
+        "definitionProvider": false,
+        "typeDefinitionProvider": false,
+        "referencesProvider": false,
+        "documentHighlightProvider": false,
+        "documentSymbolProvider": false,
+        "codeActionProvider": false,
+        "documentFormattingProvider": false,
+        "documentRangeFormattingProvider": false,
+        "renameProvider": false,
+        "foldingRangeProvider": false,
+        "workspace": {
+            "workspaceFolders": {
+                "supported": true,
+                "changeNotifications": true
+            }
+        },
+        "linkedEditingRangeProvider": false
+    }
+}

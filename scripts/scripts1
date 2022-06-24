@@ -1,0 +1,50 @@
+Script: script3
+    Command: azaza
+    Parameter: { ololo,
+        ololo,
+        ololo
+        }
+
+    Command: azaza
+    Parameter: { ololo,
+            ololo,
+            ololo
+            }
+
+    Command: azaza
+    Parameter: { ololo,
+            ololo,
+            ololo
+            }
+
+    Command: azaza
+    Parameter: { ololo,
+            ololo,
+            ololo
+            }
+
+
+Script: script4
+    Command: azaza
+    Parameter: { ololo,
+        ololo,
+        ololo
+        }
+
+    Command: azaza
+    Parameter: { ololo,
+            ololo,
+            ololo
+            }
+
+    Command: azaza
+    Parameter: { ololo,
+            ololo,
+            ololo
+            }
+
+    Command: azaza
+    Parameter: { ololo,
+            ololo,
+            ololo
+            }
